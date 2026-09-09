@@ -1,0 +1,47 @@
+{
+    "queer":{
+        "flag":"00000099d9ea00a2e8b5e61dffffffffc90efd6666ffaec9000000",
+        "aroace":"e28c00f5cd00ffffff51b1e11d3351",
+        "aromantic":"3da542a7d379ffffffa9a9a9000000",
+        "asexual":"000000a3a3a3ffffff800080",
+        "bisexual":"d60270d602709b4f960038a80038a8",
+        "gay":"078d7026ceaa98e8c1ffffff7bade25049cc3d1a78",
+        "lesbian":"d52d00ef7627ff9a56ffffffd162a4b51365a30262",
+        "neptunic":"039bba3ad5c874e9d4a1e6ef99b0ea9799ef",
+        "omnisexual":"fe9aceff53bf2000446760fe8ea6ff",
+        "pansexual":"ff218effd00021b1ff"
+
+    },
+    "trans":{
+        "flag":"74d7eeffafc8ffffffffafc874d7ee",
+        "agender":"000000b9b9b9ffffffb8f483ffffffb9b9b9000000",
+        "demigirl":"7f7f7fc4c4c4ffaec9ffffffffaec9c4c4c47f7f7f",
+        "nonbinary":"fcf434ffffff9c59d12c2c2c",
+        "transfeminine":"74deffffe1edffb5d6ff8cbfffb5d6ffe1ed74deff",
+        "transmasculine":"ff8abeccf5ff99ecff75dfff99ecffccf5ffff8abe"
+    },
+    "country":{
+        "germany":"000000d00000ffce00",
+        "russia":"ffffff0039a6d52b1e"
+    },
+    "special":{
+        "pride":{
+            "flag":"e40303ff8c00ffed00008026004cff732982",
+            "progress":"e50000ff8d00ffee00028121004cff760088>00000061391573d7eeffafc7ffffff"
+        },
+        "ardera":{
+            "trans_les":"d62e00ff9a57ffffffd162a5a30263>74d7eeffafc8ffffff",
+            "transfem_les":"d62e00ff9a57ffffffd162a5a30263>74deffffe1edffb5d6ff8cbf",
+            "transfem_fin_les_old":"ea4454ea4454ea4454ea4454ea4454ea6e64ea6e64ffa490ffa490ffa490ffb488ffb488ffb488ffb488ffe7dcffadd4ffadd4ffadd4ffadd4ffadd4ffe7dce898aee898aee898aee898aee888b6e888b6e888b6d15895d15895d12e85d12e85d12e85d12e85d12e85>74deffffe1edffb5d6ff8cbf",
+            "fin_les_old":"ea4454ea4454ea4454ea4454ea4454ea6e64ea6e64ffa490ffa490ffa490ffb488ffb488ffb488ffb488ffe7dcffadd4ffadd4ffadd4ffadd4ffadd4ffe7dce898aee898aee898aee898aee888b6e888b6e888b6d15895d15895d12e85d12e85d12e85d12e85d12e85",
+            "finsexual_lesbian_transfeminine":"ea4354f79378ffb588ffacd3e899afda6197d12e85>74deffffe1edffb5d6ff8cbf",
+            "finsexual_lesbian":"ea4354f79378ffb588ffacd3e899afda6197d12e85"
+        },
+        "melina":{
+            "neptunic_demigirl":"039bba3ad5c874e9d4a1e6ef99b0ea9799ef>7f7f7fc4c4c4ffaec9ffffff"
+        },
+        "lix":{
+            "aromantic_transmasculine":"3da542a7d379ffffffa9a9a9000000>ff8abeccf5ff99ecff75dfff"
+        }
+    }
+}
